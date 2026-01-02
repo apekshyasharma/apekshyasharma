@@ -52,7 +52,6 @@ I enjoy working on applied AI projects, writing clean documentation, and continu
 - Time Management  
 - Adaptability  
 - Leadership
-- 
 ---
 
 ## 🌐 Connect With Me
