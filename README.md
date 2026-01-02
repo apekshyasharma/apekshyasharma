@@ -57,7 +57,6 @@ I enjoy working on applied AI projects, writing clean documentation, and continu
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/apekshyasharma  
 - LinkedIn: https://www.linkedin.com/in/apekshya-sharma-6352b1334/  
 - Email: apekshyasharma2308@gmail.com  
 
