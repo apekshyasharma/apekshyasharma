@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 <br>I am a motivated Artificial Intelligence undergraduate currently pursuing **BSc (Hons) Computing with Artificial Intelligence**.<br><br>I have hands-on experience building **machine learning, deep learning, NLP, and generative AI systems**, along with experience as an **AI educator**, where I translate complex AI concepts into practical, real-world applications.<br><br>I enjoy working on applied AI projects, writing clean and well-structured documentation, and continuously improving my technical depth through project-based learning and experimentation.
 
 
