@@ -14,8 +14,6 @@ I have hands-on experience building **machine learning, deep learning, NLP, and 
 
 I enjoy working on applied AI projects, writing clean and well-structured documentation, and continuously improving my technical depth through project-based learning and experimentation.
 
-I am particularly interested in **human-centered AI**, intelligent systems, and using data-driven approaches to solve meaningful problems.
-
 ---
 
 ## 🛠 Technical Skills
